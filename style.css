@@ -85,7 +85,7 @@ img:hover{
         height: 15vh;
     }
    h1{
-   font-size: 40px;
+   font-size: 2.5rem;
    line-height:15vh;
    }
    
@@ -106,7 +106,7 @@ img:hover{
 
    }
    p{
-    font-size: 30px;
+    font-size: 1.7rem;
    }
    .item{
     height:100px ;
@@ -114,7 +114,6 @@ img:hover{
    }
    
    .option{
-    
     justify-content: center;
     height: 12vh;
     width: 100%;
